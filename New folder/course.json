@@ -1,0 +1,83 @@
+[
+    {
+      "id": "PY101",
+      "course_name": "Introduction to Python Programming",
+      "course_image": "https://i.ibb.co/JrXjCXm/Introduction-To-Python-1.jpg",
+      "credit_hour": 6,
+      "course_price": 12500.0,
+      "description": "This introductory course is perfect for those new to programming. Learn the fundamentals of Python and start your journey into the world of software development."
+    },
+    {
+      "id": "WDJS202",
+      "course_name": "Introduction to Web Development with JavaScript",
+      "course_image": "https://i.ibb.co/XkTMxw4/javascript-meta-1652702081069.jpg",
+      "credit_hour": 8,
+      "course_price": 17000.0,
+      "description": "Master the art of web development using JavaScript. Build interactive and responsive web applications with the power of JavaScript."
+    },
+    {
+      "id": "ML303",
+      "course_name": "Introduction to Machine Learning",
+      "course_image": "https://i.ibb.co/nMJxnv5/1-c-G6-U1qst-YDijh9b-PL42e-Q.jpg",
+      "credit_hour": 5,
+      "course_price": 22000.0,
+      "description": "Dive into the exciting world of machine learning. Learn how to create predictive models and make data-driven decisions."
+    },
+    {
+      "id": "ADM401",
+      "course_name": "Introduction to Advanced Digital Marketing",
+      "course_image": "https://i.ibb.co/yyNMPVt/hq720.jpg",
+      "credit_hour": 3,
+      "course_price": 12000.0,
+      "description": "Take your digital marketing skills to the next level. Explore advanced strategies for online advertising and brand promotion."
+    },
+    {
+      "id": "GD101",
+      "course_name": "Introduction to Graphic Design for Programmers",
+      "course_image": "https://i.ibb.co/m0gft2h/download.jpg",
+      "credit_hour": 9,
+      "course_price": 28500.0,
+      "description": "Enhance your programming projects with stunning graphics. Learn graphic design principles and create visually appealing content."
+    },
+    {
+      "id": "PP202",
+      "course_name": "Introduction to Programming Psychology",
+      "course_image": "https://i.ibb.co/3fnnbZ1/download.png",
+      "credit_hour": 2,
+      "course_price": 10500.0,
+      "description": "Understand the psychology behind programming. Improve your problem-solving skills and productivity as a programmer."
+    },
+    {
+      "id": "ASD303",
+      "course_name": "Introduction to Agile Software Development",
+      "course_image": "https://i.ibb.co/vBNJ6vS/into-to-agile.png",
+      "credit_hour": 7,
+      "course_price": 24000.0,
+      "description": "Adopt agile methodologies for efficient software development. Deliver high-quality software products with speed and flexibility."
+    },
+    {
+      "id": "SP101",
+      "course_name": "Problem-Solving Part",
+      "course_image": "https://i.ibb.co/Jv93dMt/Be-Part-of-the-Solution-Not-the-Problem.png",
+      "credit_hour": 4,
+      "course_price": 14500.0,
+      "description": "This course focuses on problem-solving techniques and strategies essential for programmers. Learn how to approach and solve complex coding challenges."
+    },
+    {
+      "id": "CPP101",
+      "course_name": "Introduction to C++ Programming",
+      "course_image": "https://i.ibb.co/9HG0c5v/1-o-Ffl-1-UKLtd8-XOswpwgri-A.png",
+      "credit_hour": 6,
+      "course_price": 13500.0,
+      "description": "Explore the fundamentals of C++ programming language. Start your journey into the world of software development with C++."
+    },
+    {
+      "id": "JAVA202",
+      "course_name": "Introduction to Java Programming",
+      "course_image": "https://i.ibb.co/rc8zt1L/introduction-to-java-featured.webp",
+      "credit_hour": 7,
+      "course_price": 16000.0,
+      "description": "Learn the basics of Java programming and develop applications for various platforms. Java is a versatile and widely-used language."
+    }
+  ]
+  

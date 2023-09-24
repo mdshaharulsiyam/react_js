@@ -1,0 +1,22 @@
+[
+      {
+        "id": "facebook",
+        "name": "Facebook",
+        "logo_url": "https://i.ibb.co/m9nK9c5/Facebook.png",
+        "link": "https://www.facebook.com/example"
+      },
+      {
+        "id": "twitter",
+        "name": "Twitter",
+        "logo_url": "https://i.ibb.co/m9nK9c5/Facebook.png",
+        "link": "https://i.ibb.co/m9nK9c5/Facebook.png"
+      },
+      {
+        "id": "instagram",
+        "name": "Instagram",
+        "logo_url": "https://i.ibb.co/m9nK9c5/Facebook.png",
+        "link": "https://www.instagram.com/example"
+      }
+]
+
+  

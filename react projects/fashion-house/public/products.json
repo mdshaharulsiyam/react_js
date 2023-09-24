@@ -1,0 +1,98 @@
+ [
+      {
+        "id": "WhtSlidFrmlShrt01",
+        "name": "White Solid Formal Shirt",
+        "price": 349.99,
+        "rating": 4.5,
+        "image_url": "https://i.ibb.co/znc87YB/pexels-dima-valkov-6402848-1.png",
+        "description": "Elevate your formal look with this White Solid Formal Shirt. Crafted from premium cotton, it offers both comfort and style. Whether it's a business meeting or a special occasion, this shirt is a timeless choice for the modern gentleman."
+      },
+      {
+        "id": "BlkLthrDrsShs02",
+        "name": "Black Leather Dress Shoes",
+        "price": 799.99,
+        "rating": 4.3,
+        "image_url": "https://i.ibb.co/znc87YB/pexels-dima-valkov-6402848-1.png",
+        "description": "Make a bold statement with our Black Leather Dress Shoes. These handcrafted shoes are the epitome of elegance and sophistication. Whether you're attending a gala or a corporate event, these shoes will ensure you stand out in style."
+      },
+      {
+        "id": "NvyBluBlzr03",
+        "name": "Navy Blue Blazer",
+        "price": 899.99,
+        "rating": 4.7,
+        "image_url": "https://i.ibb.co/znc87YB/pexels-dima-valkov-6402848-1.png",
+        "description": "Dress to impress with our Navy Blue Blazer. Tailored to perfection, it exudes class and charm. The rich navy color complements any outfit, making it a versatile addition to your wardrobe. Elevate your style game with this timeless piece."
+      },
+      {
+        "id": "SlmFtDnmJns04",
+        "name": "Slim Fit Denim Jeans",
+        "price": 599.99,
+        "rating": 4.4,
+        "image_url": "https://i.ibb.co/znc87YB/pexels-dima-valkov-6402848-1.png",
+        "description": "Step up your casual look with our Slim Fit Denim Jeans. Made from high-quality denim, these jeans offer a comfortable fit and a modern silhouette. Whether it's a weekend outing or a casual Friday at the office, these jeans are a go-to choice."
+      },
+      {
+        "id": "ClsLthrBlt05",
+        "name": "Classic Leather Belt",
+        "price": 399.99,
+        "rating": 4.6,
+        "image_url": "https://i.ibb.co/znc87YB/pexels-dima-valkov-6402848-1.png",
+        "description": "Complete your look with our Classic Leather Belt. Crafted from genuine leather, it adds a touch of elegance to any outfit. The timeless design and sturdy construction make it a reliable accessory for both formal and casual occasions."
+      },
+      {
+        "id": "WhtSnekr06",
+        "name": "White Sneakers",
+        "price": 449.99,
+        "rating": 4.2,
+        "image_url": "https://i.ibb.co/znc87YB/pexels-dima-valkov-6402848-1.png",
+        "description": "Stay on-trend with our White Sneakers. These versatile sneakers combine style and comfort seamlessly. Whether you're running errands or hanging out with friends, these sneakers will keep you looking cool and feeling great."
+      },
+      {
+        "id": "LptBckpck07",
+        "name": "Laptop Backpack",
+        "price": 699.99,
+        "rating": 4.8,
+        "image_url": "https://i.ibb.co/znc87YB/pexels-dima-valkov-6402848-1.png",
+        "description": "Carry your essentials in style with our Laptop Backpack. Designed for the modern professional, it offers ample space for your laptop and accessories. The ergonomic design ensures comfort during long commutes or business trips."
+      },
+      {
+        "id": "CtnDrsShrt08",
+        "name": "Cotton Dress Shirt",
+        "price": 499.99,
+        "rating": 4.5,
+        "image_url": "https://i.ibb.co/znc87YB/pexels-dima-valkov-6402848-1.png",
+        "description": "Upgrade your formal wardrobe with our Cotton Dress Shirt. Made from premium cotton, it combines classic style with modern comfort. Whether it's a board meeting or a dinner date, this shirt will make a lasting impression."
+      },
+      {
+        "id": "BrwnLthrWtch09",
+        "name": "Brown Leather Watch",
+        "price": 899.99,
+        "rating": 4.4,
+        "image_url": "https://i.ibb.co/znc87YB/pexels-dima-valkov-6402848-1.png",
+        "description": "Elevate your wrist game with our Brown Leather Watch. This exquisite timepiece features a genuine leather strap and a timeless design. It's the perfect accessory for discerning individuals who appreciate both style and function."
+      },
+      {
+        "id": "ClsAvtrSnglss10",
+        "name": "Classic Aviator Sunglasses",
+        "price": 349.99,
+        "rating": 4.2,
+        "image_url": "https://i.ibb.co/znc87YB/pexels-dima-valkov-6402848-1.png",
+        "description": "Shield your eyes in style with our Classic Aviator Sunglasses. These iconic shades offer both UV protection and a timeless look. Whether you're hitting the beach or cruising down the highway, these sunglasses are a must-have."
+      },
+      {
+        "id": "RdPldFlnlShrt11",
+        "name": "Red Plaid Flannel Shirt",
+        "price": 499.99,
+        "rating": 4.6,
+        "image_url": "https://i.ibb.co/znc87YB/pexels-dima-valkov-6402848-1.png",
+        "description": "Stay cozy and fashionable with our Red Plaid Flannel Shirt. Crafted from soft flannel fabric, it's perfect for chilly days. The classic red plaid pattern adds a touch of rustic charm to your casual outfits."
+      },
+      {
+        "id": "CslKhkiPnts12",
+        "name": "Casual Khaki Pants",
+        "price": 379.99,
+        "rating": 4.3,
+        "image_url": "https://i.ibb.co/znc87YB/pexels-dima-valkov-6402848-1.png",
+        "description": "Get a relaxed yet polished look with our Casual Khaki Pants. Made from comfortable cotton, these pants are versatile for both work and leisure. The khaki color"
+      }
+ ]

@@ -1,0 +1,143 @@
+[
+    {
+      "id": 1,
+      "name": "EcoGadget X1",
+      "description": "Cutting-edge eco-friendly gadget",
+      "price": 199.99,
+      "category": "Electronics"
+    },
+    {
+      "id": 2,
+      "name": "LuxuryWatch Pro",
+      "description": "A high-end luxury watch",
+      "price": 299.99,
+      "category": "Fashion"
+    },
+    {
+      "id": 3,
+      "name": "SmartHome Helper",
+      "description": "An intelligent home automation device",
+      "price": 129.99,
+      "category": "Home & Garden"
+    },
+    {
+      "id": 4,
+      "name": "Designer Dress Elegance",
+      "description": "The latest fashion trend for women",
+      "price": 149.99,
+      "category": "Fashion"
+    },
+    {
+      "id": 5,
+      "name": "Culinary Master Blender",
+      "description": "A versatile kitchen appliance for chefs",
+      "price": 189.99,
+      "category": "Kitchen"
+    },
+    {
+      "id": 6,
+      "name": "Outdoor Adventure Pack",
+      "description": "Everything you need for outdoor expeditions",
+      "price": 249.99,
+      "category": "Sports & Outdoors"
+    },
+    {
+      "id": 7,
+      "name": "Organizer's Paradise",
+      "description": "Stay organized with this multipurpose tool",
+      "price": 49.99,
+      "category": "Office Supplies"
+    },
+    {
+      "id": 8,
+      "name": "Classic Literature Collection",
+      "description": "A timeless collection of literary classics",
+      "price": 59.99,
+      "category": "Books"
+    },
+    {
+      "id": 9,
+      "name": "Glamour Beauty Set",
+      "description": "A comprehensive set of beauty essentials",
+      "price": 89.99,
+      "category": "Beauty"
+    },
+    {
+      "id": 10,
+      "name": "Premium Leather Sofa",
+      "description": "A comfortable and elegant piece of furniture",
+      "price": 999.99,
+      "category": "Furniture"
+    },
+    {
+      "id": 11,
+      "name": "Fashionable Scarf Collection",
+      "description": "A stylish collection of scarves",
+      "price": 39.99,
+      "category": "Fashion"
+    },
+    {
+      "id": 12,
+      "name": "Pro DIY Tool Kit",
+      "description": "A professional-grade tool kit for DIY projects",
+      "price": 149.99,
+      "category": "Tools"
+    },
+    {
+      "id": 13,
+      "name": "Gaming Enthusiast Bundle",
+      "description": "Enhance your gaming experience with this bundle",
+      "price": 199.99,
+      "category": "Electronics"
+    },
+    {
+      "id": 14,
+      "name": "Healthy Snack Sampler",
+      "description": "A delicious and healthy snack assortment",
+      "price": 24.99,
+      "category": "Food & Beverages"
+    },
+    {
+      "id": 15,
+      "name": "Ultimate Cleaning Kit",
+      "description": "A versatile cleaning kit for your home",
+      "price": 34.99,
+      "category": "Home & Garden"
+    },
+    {
+      "id": 16,
+      "name": "Classic Kids Toy Set",
+      "description": "A timeless collection of toys for kids",
+      "price": 59.99,
+      "category": "Toys"
+    },
+    {
+      "id": 17,
+      "name": "Trendy Accessory Collection",
+      "description": "A collection of trendy fashion accessories",
+      "price": 79.99,
+      "category": "Fashion"
+    },
+    {
+      "id": 18,
+      "name": "Green Living Essentials",
+      "description": "An essential kit for environmentally-conscious living",
+      "price": 149.99,
+      "category": "Environmentally Friendly"
+    },
+    {
+      "id": 19,
+      "name": "Fitness Enthusiast Bundle",
+      "description": "A comprehensive fitness equipment bundle",
+      "price": 299.99,
+      "category": "Fitness"
+    },
+    {
+      "id": 20,
+      "name": "Connectivity Hub Pro",
+      "description": "Stay connected with this advanced hub",
+      "price": 199.99,
+      "category": "Electronics"
+    }
+  ]
+  

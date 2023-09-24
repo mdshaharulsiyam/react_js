@@ -1,0 +1,74 @@
+[
+    {
+      "country": "United States",
+      "capital": "Washington, D.C.",
+      "population": 331002651,
+      "area_sq_km": 9372610,
+      "currency": "United States Dollar (USD)",
+      "language": "English"
+    },
+    {
+      "country": "Canada",
+      "capital": "Ottawa",
+      "population": 37742154,
+      "area_sq_km": 9984670,
+      "currency": "Canadian Dollar (CAD)",
+      "language": "English, French"
+    },
+    {
+      "country": "United Kingdom",
+      "capital": "London",
+      "population": 67886011,
+      "area_sq_km": 242900,
+      "currency": "Pound Sterling (GBP)",
+      "language": "English"
+    },
+    {
+      "country": "Germany",
+      "capital": "Berlin",
+      "population": 83783942,
+      "area_sq_km": 357022,
+      "currency": "Euro (EUR)",
+      "language": "German"
+    },
+    {
+      "country": "France",
+      "capital": "Paris",
+      "population": 65273511,
+      "area_sq_km": 551695,
+      "currency": "Euro (EUR)",
+      "language": "French"
+    },
+    {
+      "country": "Australia",
+      "capital": "Canberra",
+      "population": 25499884,
+      "area_sq_km": 7692024,
+      "currency": "Australian Dollar (AUD)",
+      "language": "English"
+    },
+    {
+      "country": "India",
+      "capital": "New Delhi",
+      "population": 1380004385,
+      "area_sq_km": 3287263,
+      "currency": "Indian Rupee (INR)",
+      "language": "Hindi, English"
+    },
+    {
+      "country": "Brazil",
+      "capital": "Brasília",
+      "population": 212559417,
+      "area_sq_km": 8515767,
+      "currency": "Brazilian Real (BRL)",
+      "language": "Portuguese"
+    },
+    {
+      "country": "China",
+      "capital": "Beijing",
+      "population": 1439323776,
+      "area_sq_km": 9706961,
+      "currency": "Chinese Yuan (CNY)",
+      "language": "Mandarin"
+    }
+]

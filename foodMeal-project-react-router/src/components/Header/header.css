@@ -1,0 +1,33 @@
+nav ul {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    gap: 15px;
+    transition: 1s ease all    ;
+}
+nav ul a{
+    font-size: 18px;
+    color: black;
+    transition: .4s ease-in-out all;
+}
+nav ul a:active{
+    font-size: 14px;
+}
+#show a{
+    display: block;
+}
+#show{
+    transition: 1s ease all;
+    position: absolute;
+    top: 65px;
+    right: 0px;
+    display: block;
+    background: #FED7AA;
+    padding: 10px 30px;
+    height: 100svh;
+}
+@media screen and (max-width: 420px) {
+    nav #hungry{
+        display: none;
+    }
+}
